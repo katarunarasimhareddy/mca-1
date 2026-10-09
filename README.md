@@ -1,1 +1,5 @@
-# mca-1
+wellcome to jntu
+name
+course
+college name
+address
